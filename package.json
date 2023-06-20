@@ -1,0 +1,16 @@
+{
+  "name": "youtube-subtitle",
+  "version": "0.0.1",
+  "description": "youtube-subtitle project for get subtitle for youtube video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Doesystem/youtube-subtitle.git"
+  },
+  "type": "module",
+  "author": "Doesystem",
+  "license": "ISC"
+}
